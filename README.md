@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Mónica Venzor  
-**Data Analyst | Power BI | SQL | Excel | Python | Google & IBM Certified**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 💼 Transitioning from Biotechnology to Data Analytics  
 📊 Passionate about transforming data into actionable insights and building clean, interactive dashboards.  
@@ -85,6 +90,12 @@ Created a prototype dashboard that simulates real-time financial data visualizat
 - [LinkedIn](https://www.linkedin.com/in/monicavenzor)  
 - [Credly Profile](https://www.credly.com/users/monicavenzor)  
 - [Email](mailto:mvenzor.data@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+![Monica's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonicaVenzor&show_icons=true&theme=radical)
+
 
 ---
 
