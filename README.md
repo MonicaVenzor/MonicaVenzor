@@ -22,7 +22,7 @@
 ## 🎓 Certifications
 - **Google Data Analytics Professional Certificate (v2)** – Coursera / Credly  
 - **IBM Data Analyst Professional Certificate (v3)** – Coursera / Credly  
-- **Microsoft Power BI Data Analyst (in progress)**  
+- **Microsoft Power BI Data Analyst Professional Certificate – Coursera / Aligned with the official Microsoft PL-300 curriculum**  
 - **Advanced Business Analytics – University of Colorado Boulder**  
 - **Excel Skills for Data Analytics and Visualization – Macquarie University**  
 - **Data Visualization with Tableau – UC Davis**  
@@ -37,7 +37,7 @@
 | **Data Analysis & Visualization** | Power BI, Tableau, Excel |
 | **Programming & Querying** | SQL, Python (Pandas, Plotly, Dash) |
 | **ETL & Automation** | Power Query, Python |
-| **Database Management** | MySQL, PostgreSQL |
+| **Database Management** | SQLite, BigQuery (SQL), Excel Data Models |
 | **Cloud & Tools** | Google Cloud (BigQuery), Git & GitHub |
 
 ---
