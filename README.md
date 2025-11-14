@@ -36,9 +36,11 @@
 |-----------|--------|
 | **Data Analysis & Visualization** | Power BI, Tableau, Excel |
 | **Programming & Querying** | SQL, Python (Pandas, Plotly, Dash) |
+| **Data Wrangling** | Pandas, Power Query, DAX (basics) |
 | **ETL & Automation** | Power Query, Python |
 | **Database Management** | SQLite, BigQuery (SQL), Excel Data Models |
 | **Cloud & Tools** | Google Cloud (BigQuery), Git & GitHub |
+
 
 ---
 
