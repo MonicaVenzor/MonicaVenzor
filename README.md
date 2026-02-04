@@ -13,6 +13,7 @@ Data Analyst | Analytics Engineer | Data Engineering Enthusiast
 
 
 💼 **Biotechnologist | Data Engineering & Analytics**
+
 📊 Passionate about the full data lifecycle — from building robust data pipelines and database architectures to delivering actionable insights through ML and BI.
 
 ---
