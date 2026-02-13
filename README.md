@@ -28,11 +28,11 @@ Data Analyst | Analytics Engineer | Data Engineering Enthusiast
 ## 🎓 Certifications
 
 ### In Progress
-- **Meta Database Engineer Professional Certificate** – Coursera (90%)
 - **Snowflake Data Engineering** – Coursera
 - **IBM Data Engineering Professional Certificate** – Coursera
 
 ### Completed
+- **Meta Database Engineer Professional Certificate(v.1)** – Coursera / Credly 
 - **Google Data Analytics Professional Certificate (v2)** – Coursera / Credly  
 - **IBM Data Analyst Professional Certificate (v3)** – Coursera / Credly  
 - **Microsoft Power BI Data Analyst Professional Certificate** – Coursera (Aligned with PL-300)  
